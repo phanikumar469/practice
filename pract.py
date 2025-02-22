@@ -4,6 +4,7 @@ def multiplier(n = 6):
         print(f"{n} * {i} = {result}") 
 multiplier()
 multiplier(7)
+multiplier(8)
 # n = 2
 # for i in range (0,11):
 #     result = n + i
